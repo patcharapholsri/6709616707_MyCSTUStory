@@ -6,7 +6,7 @@ body{
 .poster{
     background-color: #d6d6d6;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 1100px;
     padding: 20px;
     text-align: center;
     box-sizing: border-box;
@@ -20,6 +20,9 @@ body{
 .img{
     width: 200px;
     border: 4px solid #d3ad2f;
+}
+.img2{
+    height: 100px;
 }
 
 h1 {
