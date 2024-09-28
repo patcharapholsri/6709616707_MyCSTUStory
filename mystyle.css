@@ -67,4 +67,14 @@ a:link {
     color: #291200;
     background-color: transparent;
     text-decoration: none;
+} 
+a:visited {
+    color: #291200;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(139, 102, 0);
+    background-color: transparent;
+    font-size: large;
 }
