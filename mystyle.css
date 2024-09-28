@@ -6,7 +6,7 @@ body{
 .poster{
     background-color: #d6d6d6;
     background-repeat: no-repeat;
-    height: 1000px;
+    height: 700px;
     padding: 20px;
     text-align: center;
     box-sizing: border-box;
@@ -35,13 +35,14 @@ h3 {
 }
 
 .d1{
-    font-size: 10pt;
+    font-size: 15px;
 }
 
 .d2{
     font-style: oblique;
     font-size: 20pt;
     font-weight: normal;
+    font-family: "New Amsterdam", sans-serif;;
     margin: 5px 0;
 }
 
@@ -51,9 +52,12 @@ h3 {
     background: #fff;
     box-shadow: 0px 5px 15px 5px hsl(0, 0%, 0%);
 }
+.marginbottom{
+    margin-bottom: 20px;
+}
 
 h4 {
-    text-shadow:0px 1px 0px #000000;
+    /*text-shadow:0px 1px 0px #000000;*/
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 a:link {
