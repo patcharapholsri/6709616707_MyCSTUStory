@@ -6,7 +6,7 @@ body{
 .poster{
     background-color: #d6d6d6;
     background-repeat: no-repeat;
-    height: 620px;
+    height: 1000px;
     padding: 20px;
     text-align: center;
     box-sizing: border-box;
@@ -30,7 +30,8 @@ h1 {
 }
 
 h3 {
-    color:rgb(255, 255, 255)
+    color:rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .d1{
@@ -48,5 +49,15 @@ h3 {
     margin-bottom: 10px;
     padding: 10px;
     background: #fff;
-    box-shadow: 8px 5px 15px 5px hsl(0, 0%, 0%);
+    box-shadow: 0px 5px 15px 5px hsl(0, 0%, 0%);
+}
+
+h4 {
+    text-shadow:0px 1px 0px #000000;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:link {
+    color: #291200;
+    background-color: transparent;
+    text-decoration: none;
 }
