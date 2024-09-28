@@ -1,5 +1,5 @@
 body{
-    background-image: url('https://shorturl.at/5Jg8b');
+    background-image: url('resources/IMG_9301.png');
     background-repeat: repeat;
     padding : 20px;
 }
@@ -50,6 +50,8 @@ h3 {
 }
 
 .pages{
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 10px;
     padding: 10px;
     background: #fff;
@@ -74,7 +76,8 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-    color: rgb(139, 102, 0);
+    color: rgb(231, 158, 0);
     background-color: transparent;
     font-size: large;
+    font-weight: bold;
 }
