@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://shorturl.at/5Jg8b');
+    background-repeat: repeat;
+    padding : 20px;
+}
+.poster{
+    background-color: #d6d6d6;
+    background-repeat: no-repeat;
+    height: 620px;
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 6px 4px 21px 8px;
+}
+
+.vdo{
+    border: 5px solid #5a5a5a;
+}
+
+.img{
+    width: 200px;
+    border: 4px solid #d3ad2f;
+}
+
+h1 {
+    color: #291200;
+    font-size: 30pt;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.d1{
+    font-size: 10pt;
+}
+
+.d2{
+    font-style: oblique;
+    font-size: 20pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
